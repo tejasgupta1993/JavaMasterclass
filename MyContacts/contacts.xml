@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Tejas</first_name>
+	<last_name>Bansal</last_name>
+	<phone_number>1234567890</phone_number>
+	<notes>My Notes</notes>
+</contact>
+<contact>
+	<first_name>Madrid</first_name>
+	<last_name>Fil</last_name>
+	<phone_number>2363762786</phone_number>
+	<notes>Hey Guys</notes>
+</contact>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>0987654321</phone_number>
+	<notes>A few Notes</notes>
+</contact>
+</contacts>
