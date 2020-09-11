@@ -4,7 +4,8 @@ public class EqualSumChecker {
      *
     Write a method hasEqualSum with 3 parameters of type int.
 
-    The method should return boolean and it needs to return true if sum of first and second parameter is equal to third parameter. Otherwise return false.
+    The method should return boolean and it needs to return true if sum of first and second parameter
+    is equal to third parameter. Otherwise return false.
 
     EXAMPLES OF INPUT/OUTPUT:
 
