@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+    // perfect no. --> sum of all factors of no.(including 1) == no. itself
 
     public static void main(String[] args) {
         System.out.println(isPerfectNumber(6));

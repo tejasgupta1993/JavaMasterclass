@@ -10,10 +10,10 @@ public class Main {
 
         System.out.println("Enter your year of birth: ");
 
-        boolean hasNextInt = scanner.hasNextInt();
+        boolean hasNextInt = scanner.hasNextInt(); // returns boolen whether input is an int or not
         if (hasNextInt) {
             int yearOfBirth = scanner.nextInt();
-            scanner.nextLine();     // handle nex line character (enter key)
+            scanner.nextLine();     // handle next line character (enter key)
 
             System.out.println("Enter your Name: ");
             String name = scanner.nextLine();

@@ -14,7 +14,7 @@ public class Main {
             return false;
         }
 
-        // for searchin a number at same place in2 different numbers
+        // for searchin a number at same place in 2 different numbers
 //        while ((number1 > 0) || (number2 > 0)){
 //            if((number1 % 10) == (number2 % 10)){
 //                return true;
